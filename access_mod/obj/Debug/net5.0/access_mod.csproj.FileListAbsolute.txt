@@ -1,0 +1,15 @@
+/Users/samiramiraslanov/Desktop/hw/hw7/access_mod/obj/Debug/net5.0/access_mod.csproj.AssemblyReference.cache
+/Users/samiramiraslanov/Desktop/hw/hw7/access_mod/obj/Debug/net5.0/access_mod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samiramiraslanov/Desktop/hw/hw7/access_mod/obj/Debug/net5.0/access_mod.AssemblyInfoInputs.cache
+/Users/samiramiraslanov/Desktop/hw/hw7/access_mod/obj/Debug/net5.0/access_mod.AssemblyInfo.cs
+/Users/samiramiraslanov/Desktop/hw/hw7/access_mod/obj/Debug/net5.0/access_mod.csproj.CoreCompileInputs.cache
+/Users/samiramiraslanov/Desktop/hw/hw7/access_mod/bin/Debug/net5.0/access_mod.deps.json
+/Users/samiramiraslanov/Desktop/hw/hw7/access_mod/bin/Debug/net5.0/access_mod.runtimeconfig.json
+/Users/samiramiraslanov/Desktop/hw/hw7/access_mod/bin/Debug/net5.0/access_mod.runtimeconfig.dev.json
+/Users/samiramiraslanov/Desktop/hw/hw7/access_mod/bin/Debug/net5.0/access_mod.dll
+/Users/samiramiraslanov/Desktop/hw/hw7/access_mod/bin/Debug/net5.0/ref/access_mod.dll
+/Users/samiramiraslanov/Desktop/hw/hw7/access_mod/bin/Debug/net5.0/access_mod.pdb
+/Users/samiramiraslanov/Desktop/hw/hw7/access_mod/obj/Debug/net5.0/access_mod.dll
+/Users/samiramiraslanov/Desktop/hw/hw7/access_mod/obj/Debug/net5.0/ref/access_mod.dll
+/Users/samiramiraslanov/Desktop/hw/hw7/access_mod/obj/Debug/net5.0/access_mod.pdb
+/Users/samiramiraslanov/Desktop/hw/hw7/access_mod/obj/Debug/net5.0/access_mod.genruntimeconfig.cache

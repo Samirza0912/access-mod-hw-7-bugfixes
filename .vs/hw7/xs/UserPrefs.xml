@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5961CF4D-FBD2-4D10-AA0C-4F85FC3DDE0A}|Default">
+  <MonoDevelop.Ide.ItemProperties.access__mod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="access_mod/Models/UserClass.cs">
+    <Files>
+      <File FileName="access_mod/Program.cs" Line="24" Column="25" />
+      <File FileName="access_mod/Models/UserClass.cs" Line="85" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hw7" expanded="True">
+            <Node name="access_mod" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="UserClass.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
